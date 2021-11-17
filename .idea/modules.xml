@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GuessTheWord-Starter-App_D121191007.iml" filepath="$PROJECT_DIR$/.idea/modules/GuessTheWord-Starter-App_D121191007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GuessTheWord-Starter-App_D121191007.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GuessTheWord-Starter-App_D121191007.app.iml" />
+    </modules>
+  </component>
+</project>
